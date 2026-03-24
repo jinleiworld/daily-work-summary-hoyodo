@@ -14,8 +14,7 @@ This is an OpenClaw skill based on the **hoyodo** diary app, used to automatical
 
 1. **Download and install hoyodo App**
    - iOS: Search "hoyodo" or "或有豆" in App Store
-   - Android: Search "hoyodo" or "或有豆" in app stores
-
+     
 2. **Register an account**
    - Open the app and complete the registration process
 
