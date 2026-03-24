@@ -16,7 +16,6 @@ This is an OpenClaw skill based on the **hoyodo** diary app, used to automatical
 
 1. **下载并安装或有豆 App**
    - iOS: App Store 搜索 "或有豆" 或 "hoyodo"
-   - Android: 各大应用商店搜索 "或有豆"
 
 2. **注册账号**
    - 打开 App 完成注册流程
